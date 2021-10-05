@@ -2,7 +2,7 @@ package baseconcept
 
 import (
 	"fmt"
-	simpleinterest "learnpackage/simple-interest"
+	simpleinterest "learnmod/simple-interest"
 	"log"
 )
 
@@ -51,4 +51,4 @@ func Packages() {
 // This go.mod file is created when we create a new module.
 
 // Creating go module
-// command - go mod init learnpackage
+// command - go mod init learnmod
