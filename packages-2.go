@@ -2,8 +2,8 @@ package main
 
 import (
 	"fmt"
-	// bc "learnpackage/base-concept"
-	// _ "learnpackage/simple-interest"
+	// bc "learnmod/base-concept"
+	// _ "learnmod/simple-interest"
 )
 
 // Sometimes we need to import a package just to make sure the initialization takes place
@@ -15,7 +15,7 @@ import (
 // package main
 
 // import (
-//     _ "learnpackage/simpleinterest"
+//     _ "learnmod/simpleinterest"
 // )
 
 // func main() {
